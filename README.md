@@ -1,7 +1,4 @@
 <!--### Hi there 👋
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=header&text=Hey%20there!&animation=fadeIn" />
-</p>
 <!--
 **rdharini2001/rdharini2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=header&text=Hey%20there!&animation=fadeIn" />
 # About me 
 ```yaml
 name: Dharini Raghavan
@@ -40,3 +38,4 @@ research_expereince:
     "Project Intern - Society for Space Education Research and Development (SSERD)",
   ]
   ```
+</p>
