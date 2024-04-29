@@ -19,4 +19,16 @@ Here are some ideas to get you started:
 
 # About me
 ```yaml
-name: Dharini Raghavan```
+name: Dharini Raghavan
+located_in: Bangalore India
+current_job: Research Engineer
+education: Bachelor's in Electronics and Communication
+company: AI & Robotics Technology Park (ARTPARK), Indian Institute of Science (IISc)
+research_interests:
+  [
+    "Robot Perception and Learning",
+    "Computer Vision",
+    "Machine Learning",
+    "Signal Processing",
+  ]
+  ```
