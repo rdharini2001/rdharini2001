@@ -22,7 +22,7 @@ I'm an incoming graduate student at Georgia Tech and currently a consultant engi
 
 <p align="center">
 <a href="https://www.linkedin.com/in/dharini242001/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="50" src="[https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png](https://github.com/rdharini2001/rdharini2001/blob/main/5296501_linkedin_network_linkedin%20logo_icon.png)"/>
 </a>
 <a href="dhariniraghavan2001@gmail.com">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
