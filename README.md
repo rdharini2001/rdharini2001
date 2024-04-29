@@ -74,7 +74,6 @@ Frameworks, languages and tools I have worked with
 </p>
 
 # GitHub Stats 🚀
-My recent GitHub statistics
 ![Dharini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdharini2001&rank_icon=github&show_icons=true&layout=compact&hide_title=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdharini2001&size_weight=0.5&layout=compact&count_weight=0.5&theme=radical)
 
