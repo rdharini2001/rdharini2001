@@ -17,7 +17,13 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=header&text=Hey%20there!&animation=fadeIn" />
 </p>
 -->
-# Hey there! Let's connect and collaborate!
+# Hey there! Let's connect and collaborate! 📫
+<a href="https://www.linkedin.com/in/dharini242001/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+<a href="https://www.linkedin.com/in/dharini242001/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
 <a href="https://www.linkedin.com/in/dharini242001/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
@@ -25,7 +31,7 @@ Here are some ideas to get you started:
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 
-# About me
+# About me 😄
 ```yaml
 Name: Dharini Raghavan
 Location: Bangalore India
@@ -48,7 +54,7 @@ Research_Expereince:
     "Project Intern - Society for Space Education Research and Development (SSERD)",
   ]
   ```
-# Tools
+# Tools 🧰
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original.svg" alt="ROS" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" alt="Pytorch" width="50" height="50" />
@@ -62,7 +68,7 @@ Research_Expereince:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/>
 </p>
 
-# GitHub Stats
+# GitHub Stats 🚀
 ![Dharini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdharini2001&rank_icon=github&show_icons=true&layout=compact&hide_title=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdharini2001&size_weight=0.5&layout=compact&count_weight=0.5&theme=radical)
 
