@@ -24,7 +24,7 @@ I'm a consultant engineer at AI & Robotics Technology Park (ARTPARK), Indian Ins
 <a href="https://www.linkedin.com/in/dharini242001/">
   <img height="50" src="https://github.com/rdharini2001/rdharini2001/blob/main/5296501_linkedin_network_linkedin%20logo_icon.png"/>
 </a>
-<a href="dhariniraghavan2001@gmail.com">
+<a href="mailto@dhariniraghavan2001@gmail.com">
   <img height="50" src="https://github.com/rdharini2001/rdharini2001/blob/main/7089163_gmail_google_icon.png"/>
 </a>
 <a href="https://www.linkedin.com/in/dharini242001/">
