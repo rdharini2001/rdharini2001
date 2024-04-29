@@ -19,19 +19,19 @@ Here are some ideas to get you started:
 -->
 # About me 
 ```yaml
-name: Dharini Raghavan
-located_in: Bangalore India
-current_job: Research Engineer
-education: Bachelor's in Electronics and Communication
-company: AI & Robotics Technology Park (ARTPARK), Indian Institute of Science (IISc)
-research_interests:
+Name: Dharini Raghavan
+Location: Bangalore India
+Position: Research Engineer
+Education: Bachelor's in Electronics and Communication
+Company: AI & Robotics Technology Park (ARTPARK), Indian Institute of Science (IISc)
+Research_Interests:
   [
     "Robot Perception and Learning",
     "Computer Vision",
     "Machine Learning",
     "Signal Processing",
   ]
-research_expereince:
+Research_Expereince:
   [
     "Project Associate - Autonomous Machines Lab, IISc"
     "Research Intern - Robert Bosch Centre for Cyber-Physical Systems (RBCCPS), IISc",
@@ -49,5 +49,7 @@ research_expereince:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="Python" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" alt="OpenCV" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" alt="Keras" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity3D" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
