@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hey%20there&animation=fadeIn&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hey%20there!&animation=fadeIn&fontSize=60" />
 </p>
