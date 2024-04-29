@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=header&text=Hey%20there!&animation=fadeIn" />
 </p>
 -->
-# About me 
+<h2>About me</h2>
 ```yaml
 Name: Dharini Raghavan
 Location: Bangalore India
@@ -54,7 +54,7 @@ Research_Expereince:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
 
-
+<h2>GitHib Stats</h2>
 ![Dharini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdharini2001&rank_icon=github&show_icons=true&layout=compact&hide_title=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdharini2001&size_weight=0.5&layout=compact&count_weight=0.5&theme=radical)
 
