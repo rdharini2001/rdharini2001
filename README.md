@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About me
+# About me 
 ```yaml
 name: Dharini Raghavan
 located_in: Bangalore India
@@ -30,5 +30,13 @@ research_interests:
     "Computer Vision",
     "Machine Learning",
     "Signal Processing",
+  ]
+research_expereince:
+  [
+    "Project Associate - Autonomous Machines Lab, IISc"
+    "Research Intern - Robert Bosch Centre for Cyber-Physical Systems (RBCCPS), IISc",
+    "Research Intern - Indian Institute of Technology (IIT), Indore",
+    "Summer Research Fellow - Frontiers in Imaging Spectroscopy and Theranostics (FIST) Lab, IISc",
+    "Project Intern - Society for Space Education Research and Development (SSERD)",
   ]
   ```
