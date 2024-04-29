@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=header&text=Hey%20there!&animation=fadeIn" />
 </p>
 -->
-# Hey there! 👋
+# Hey there! 
 I'm a consultant engineer at AI & Robotics Technology Park (ARTPARK), Indian Institute of Science (IISc)! Let's connect and collaborate!
 
 <p align="center">
