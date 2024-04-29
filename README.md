@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
 -->
 # Hey there! 
-I'm an incoming graduate student at Georgia Tech and currently a consultant engineer at ARTPARK, IISc! Let's connect and collaborate! 📫
+I'm a consultant engineer at AI & Robotics Technology Park (ARTPARK), Indian Institute of Science (IISc)! Let's connect and collaborate! 📫
 
 <p align="center">
 <a href="https://www.linkedin.com/in/dharini242001/">
