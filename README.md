@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=header&text=Hey%20there!&animation=fadeIn" />
 </p>
-```yaml
-*name: Dharini Raghavan
+```name: Dharini Raghavan
 located_in: Bangalore, India
 current_job: Research Engineer
 education:
@@ -40,5 +39,4 @@ research_interests:
     "Computer Vision",
     "Machine Learning",
     "Signal Processing"
-  ]*
-```
+  ]```
