@@ -26,7 +26,7 @@ education: Bachelor's in Electronics and Communication
 current_institution: AI & Robotics Technology Park (ARTPARK), Indian Institute of Science (IISc)
 research_background:
   [
-    "Project Associate - Autonomous Machines Lab, Indian Institute of Science (IISc)"
+    "Project Associate - Autonomous Machines Lab, Indian Institute of Science (IISc)",
     "Research Intern - Indian Institute of Technology (IIT), Indore",
     "Research Intern - Robert Bosch Centre for Cyber-Physical Systems (RBCCPS)",
     "Summer Research Fellow - Frontiers in Imaging Spectroscopy and Theranostics (FIST) Lab, IISc",
