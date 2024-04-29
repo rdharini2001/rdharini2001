@@ -54,8 +54,7 @@ Research_Expereince:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
 
-<p align="center">
+
 ![Dharini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdharini2001&rank_icon=github&show_icons=true&layout=compact&hide_title=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdharini2001&size_weight=0.5&count_weight=0.5&layout=compact)
-</p>
 
