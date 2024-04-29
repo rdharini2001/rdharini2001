@@ -17,8 +17,8 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=header&text=Hey%20there!&animation=fadeIn" />
 </p>
 -->
-# Hey there! Let's connect and collaborate! 📫
-I'm an incoming graduate student at Georgia Tech and currently a consultant engineer at ARTPARK, IISc!
+# Hey there! 
+I'm an incoming graduate student at Georgia Tech and currently a consultant engineer at ARTPARK, IISc! Let's connect and collaborate! 📫
 
 <p align="center">
 <a href="https://www.linkedin.com/in/dharini242001/">
@@ -59,6 +59,7 @@ Research_Expereince:
   ]
   ```
 # Tools 🧰
+Frameworks, languages and tools I have worked with
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ros/ros-original.svg" alt="ROS" width="50" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-plain-wordmark.svg" alt="Pytorch" width="50" height="50" />
@@ -73,6 +74,7 @@ Research_Expereince:
 </p>
 
 # GitHub Stats 🚀
+My recent GitHub statistics
 ![Dharini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdharini2001&rank_icon=github&show_icons=true&layout=compact&hide_title=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdharini2001&size_weight=0.5&layout=compact&count_weight=0.5&theme=radical)
 
