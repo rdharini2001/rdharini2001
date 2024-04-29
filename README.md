@@ -21,10 +21,7 @@ Here are some ideas to get you started:
 ```name: Dharini Raghavan
 located_in: Bangalore, India
 current_job: Research Engineer
-education:
-  [
-    "Bachelor's in Electronics and Communication",
-  ]
+education: Bachelor's in Electronics and Communication
 current_institution: AI & Robotics Technology Park (ARTPARK), Indian Institute of Science (IISc)
 research_background:
   [
