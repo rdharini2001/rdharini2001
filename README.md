@@ -55,5 +55,6 @@ Research_Expereince:
 </p>
 
 ![Dharini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdharini2001&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdharini2001&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdharini2001&size_weight=0.5&count_weight=0.5)
+
 
