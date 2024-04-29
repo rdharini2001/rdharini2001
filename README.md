@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 </p>
 -->
 # Hey there! Let's connect and collaborate! 📫
+<p align="center">
 <a href="https://www.linkedin.com/in/dharini242001/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+<a href="dhariniraghavan2001@gmail.com">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 <a href="https://www.linkedin.com/in/dharini242001/">
@@ -27,9 +31,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/dharini242001/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-<a href="https://www.linkedin.com/in/dharini242001/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+</p>
 
 # About me 😄
 ```yaml
