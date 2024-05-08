@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 # Hey there! 
 I'm a consultant engineer at AI & Robotics Technology Park (ARTPARK), Indian Institute of Science (IISc)! Let's connect and collaborate!
 
-<p align="center">
+<!--<p align="center">
 <a href="https://www.linkedin.com/in/dharini242001/">
   <img height="50" src="https://github.com/rdharini2001/rdharini2001/blob/main/5296501_linkedin_network_linkedin%20logo_icon.png"/>
 </a>
@@ -34,6 +34,7 @@ I'm a consultant engineer at AI & Robotics Technology Park (ARTPARK), Indian Ins
   <img height="50" src="https://github.com/rdharini2001/rdharini2001/blob/main/211904_social_github_icon.png"/>
 </a>
 </p>
+-->
 
 # About me 😄
 ```yaml
