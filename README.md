@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
 -->
 # Hey there! 
-I'm a consultant engineer at AI & Robotics Technology Park (ARTPARK), Indian Institute of Science (IISc)! Let's connect and collaborate!
+I am a graduate student at Georgia Tech. At Tech, I am a part of the Computational Behaviour and Health Analytics Lab, advised by Dr. Hyeokhyen Kwon where I am developing a human-centered multimodal AI framework for behaviour sensing among the dementia population. Let's connect and collaborate!
 
 <!--<p align="center">
 <a href="https://www.linkedin.com/in/dharini242001/">
@@ -35,30 +35,6 @@ I'm a consultant engineer at AI & Robotics Technology Park (ARTPARK), Indian Ins
 </a>
 </p>
 -->
-
-# About me 😄
-```yaml
-Name: Dharini Raghavan
-Location: Bangalore, India
-Position: Research Engineer
-Education: Bachelor's in Electronics and Communication
-Company: AI & Robotics Technology Park (ARTPARK), Indian Institute of Science (IISc)
-Research_Interests:
-  [
-    "Robot Perception and Learning",
-    "Computer Vision",
-    "Machine Learning",
-    "Signal Processing"
-  ]
-Research_Expereince:
-  [
-    "Project Associate - Autonomous Machines Lab, IISc"
-    "Research Intern - Robert Bosch Centre for Cyber-Physical Systems (RBCCPS), IISc",
-    "Research Intern - Indian Institute of Technology (IIT), Indore",
-    "Summer Research Fellow - Frontiers in Imaging Spectroscopy and Theranostics (FIST) Lab, IISc",
-    "Project Intern - Society for Space Education Research and Development (SSERD)"
-  ]
-  ```
 # Tools 
 🧰 Frameworks, languages and tools I have worked with 
 <p align="left">
