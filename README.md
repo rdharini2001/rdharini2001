@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 </p>
 -->
 # Hey there! 
-I am a Master's student at Georgia Tech. At Tech, I am a part of the Computational Behaviour and Health Analytics Lab, advised by Dr. Hyeokhyen Kwon where I am developing a human-centered multimodal AI framework for behaviour sensing among the dementia population. Let's connect and collaborate!
+I am a first year Ph.D. student at Georgia Tech where I am advised by Dr. Anant Madabhushi. Previously at Tech, I was a part of the Computational Behaviour and Health Analytics Lab, advised by Dr. Hyeokhyen Kwon where I developed a human-centered behaviour sensing framework for quantifying mild cognitive impairement using wearable and ambient sensors. Let's connect and collaborate!
 
 <!--<p align="center">
 <a href="https://www.linkedin.com/in/dharini242001/">
